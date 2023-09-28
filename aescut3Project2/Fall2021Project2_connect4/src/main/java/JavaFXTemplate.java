@@ -24,8 +24,6 @@ import javafx.util.Duration;
 /*
  * CS 342 Project 2: Connect 4
  * By: Saul Avila and Alexis Escutia
- * NetIDs: savila25, aescut3
- * UINs: 665919711, 679743479
 */
 
 public class JavaFXTemplate extends Application {
